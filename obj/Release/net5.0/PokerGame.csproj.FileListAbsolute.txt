@@ -1,0 +1,15 @@
+/Users/antonchervonnyy/Projects/PokerGame/PokerGame/bin/Release/net5.0/PokerGame.deps.json
+/Users/antonchervonnyy/Projects/PokerGame/PokerGame/bin/Release/net5.0/PokerGame.runtimeconfig.json
+/Users/antonchervonnyy/Projects/PokerGame/PokerGame/bin/Release/net5.0/PokerGame.runtimeconfig.dev.json
+/Users/antonchervonnyy/Projects/PokerGame/PokerGame/bin/Release/net5.0/PokerGame.dll
+/Users/antonchervonnyy/Projects/PokerGame/PokerGame/bin/Release/net5.0/ref/PokerGame.dll
+/Users/antonchervonnyy/Projects/PokerGame/PokerGame/bin/Release/net5.0/PokerGame.pdb
+/Users/antonchervonnyy/Projects/PokerGame/PokerGame/obj/Release/net5.0/PokerGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonchervonnyy/Projects/PokerGame/PokerGame/obj/Release/net5.0/PokerGame.AssemblyInfoInputs.cache
+/Users/antonchervonnyy/Projects/PokerGame/PokerGame/obj/Release/net5.0/PokerGame.AssemblyInfo.cs
+/Users/antonchervonnyy/Projects/PokerGame/PokerGame/obj/Release/net5.0/PokerGame.csproj.CoreCompileInputs.cache
+/Users/antonchervonnyy/Projects/PokerGame/PokerGame/obj/Release/net5.0/PokerGame.dll
+/Users/antonchervonnyy/Projects/PokerGame/PokerGame/obj/Release/net5.0/ref/PokerGame.dll
+/Users/antonchervonnyy/Projects/PokerGame/PokerGame/obj/Release/net5.0/PokerGame.pdb
+/Users/antonchervonnyy/Projects/PokerGame/PokerGame/obj/Release/net5.0/PokerGame.genruntimeconfig.cache
+/Users/antonchervonnyy/Projects/PokerGame/PokerGame/obj/Release/net5.0/PokerGame.csproj.AssemblyReference.cache
